@@ -1,0 +1,39 @@
+{
+  "name": "gulp-browser-sync",
+  "version": "0.0.0",
+  "description": "A starter project using GulpJS, HTML, JS, SASS, & BrowserSync",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-html-replace": "^1.5.5",
+    "gulp-if": "^2.0.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.1",
+    "gulp-uglify": "^1.5.1",
+    "run-sequence": "^1.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syahmifauzi/gulpjs-html-js-sass-minify-autoprefixer-browser-sync.git"
+  },
+  "keywords": [
+    "gulp",
+    "html",
+    "js",
+    "sass",
+    "browser-sync",
+    "autoprefixer"
+  ],
+  "author": "Syahmi Fauzi",
+  "license": "ISC",
+  "dependencies": {
+    "del": "^2.2.0"
+  }
+}
